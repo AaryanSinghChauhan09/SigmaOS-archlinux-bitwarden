@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-bitwarden component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-bitwarden"
+name = "sigmaos_archlinux_bitwarden"
 path = "src/lib.rs"
